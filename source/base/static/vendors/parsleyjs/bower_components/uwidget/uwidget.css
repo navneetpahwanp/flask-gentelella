@@ -12,7 +12,7 @@
 .uwidget .uwidget-info {
   display: block;
   height: 15px;
-  color: #999999;
+  color: #999;
   font-size: 10px;
   text-align: right;
   background-color: #f5f5f5;
@@ -20,7 +20,7 @@
 .uwidget .uwidget-info a,
 .uwidget .uwidget-info a:hover,
 .uwidget .uwidget-info a:visited {
-  color: #999999;
+  color: #999;
   text-decoration: none;
 }
 .uwidget ul.uwidget-container {
